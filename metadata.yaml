@@ -1,0 +1,29 @@
+_repo: Fireplaces-and-Chimneys-Farmers-Bulletin-1889_48378
+creator:
+  authors:
+  - agent_name: Miller, T. A. H. (Thomas Arrington Huntington)
+    aliases:
+    - Miller, Thomas Arrington Hungtington
+    - Miller, Thomas A. H.
+    birthdate: 1885
+    deathdate: 1949
+    gutenberg_agent_id: '44767'
+    url: http://www.gutenberg.org/2009/agents/44767
+  - agent_name: Senner, Arthur H. (Arthur Henry)
+    gutenberg_agent_id: '44766'
+    url: http://www.gutenberg.org/2009/agents/44766
+description: ''
+gutenberg_issued: '2015-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fireplaces'
+- !lcsh 'Chimneys'
+- !lcc 'TH'
+title: Fireplaces and Chimneys - Farmers' Bulletin 1889
+url: http://www.gutenberg.org/ebooks/48378
