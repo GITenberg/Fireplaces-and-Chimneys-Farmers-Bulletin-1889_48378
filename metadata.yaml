@@ -1,4 +1,8 @@
 _repo: Fireplaces-and-Chimneys-Farmers-Bulletin-1889_48378
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48378-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Miller, T. A. H. (Thomas Arrington Huntington)
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '44766'
     url: http://www.gutenberg.org/2009/agents/44766
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48378#Fireplaces-and-Chimneys-Farmers-Bulletin-1889
 gutenberg_issued: '2015-02-28'
 gutenberg_type: Text
 identifiers:
